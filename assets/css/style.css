@@ -1,0 +1,53 @@
+.card {
+    width: 28rem;
+    background-color: #4e4e4e;
+    color: #fff;
+    left: 1rem;
+    top: 1rem;
+}
+
+.card-header {
+    text-transform: uppercase;
+}
+
+.card-body {
+    background-color:#4e4e4e;
+}
+
+.form-control {
+    background-color: #3e3e3e;
+    color: #fff;
+    caret-color: #ff0000;
+}
+
+.form-control:focus{
+    background-color: #3e3e3e;
+    color: #fff;
+}
+
+.btn {
+    position: relative;
+    top: 4rem;
+    left: 17.5rem;
+}
+.btn:hover{
+    background-color: #4e4e4e;
+    color: #ff0000;
+}
+
+.col-auto {
+    width: -webkit-fill-available;
+}
+
+#inputCEP{
+    width: 14rem;
+}
+#inputCity {
+    width: 14rem;
+}
+#estado {
+    width: 6rem;
+    position: relative;
+    left: 15.5rem;
+    top: -4.9rem;
+}
